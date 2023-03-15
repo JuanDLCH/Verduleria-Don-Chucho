@@ -1,4 +1,5 @@
 # Integrantes
+
 - Juan Diego Londoño Chavarría
 - Sebastián Guzmán Agudelo
 - Brandon Velásquez Osorio
@@ -6,4 +7,13 @@
 - Eilin Dianella Restrepo Chaverra
 
 # Diagrama de clases
+
 ![Diagrama de clases](https://github.com/JuanDLCH/Verduleria-Don-Chucho/blob/main/diag.jpg?raw=true)
+
+# Lenguaje de programación
+
+- TypeScript
+
+# Entorno Utilizado
+
+- NodeJS v18.14.2
